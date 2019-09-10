@@ -35,7 +35,7 @@ $ yarn global add @tarojs/cli
 
 ```bash
 # 克隆项目地址
-$ git clone git@github.com:juneyang/TaroBasic.git YourProject && cd YourProject
+$ git clone [https://github.com/juneyang/TaroBasic.git](https://github.com/juneyang/TaroBasic.git) YourProject && cd YourProject
 
 # 使用 yarn 安装依赖
 $ yarn
